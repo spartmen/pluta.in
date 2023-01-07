@@ -1,2 +1,2 @@
-# pluta.in
-Strona domowa
+<doctyp html>
+  <html lang=en>
