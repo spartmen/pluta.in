@@ -1,16 +1,10 @@
 header {
-    background-color:black;
+    background-color:rgb(85, 71, 71);
     color:white;
-    text-align:center;
     padding:5px;
 }
-nav {
-    line-height:30px;
-    background-color:#eeeeee;
-    min-height:300px;
-    width:100px;
-    float:left;
-    padding:5px;
+h1 {
+    text-align:center;
 }
 section {
     width:350px;
